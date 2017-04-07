@@ -1,0 +1,64 @@
+run
+exit
+run
+compile
+exit
+run
+compile
+exit
+compile
+exit
+compile
+run 3
+compile
+run 3
+compile
+run
+compile
+run
+compile
+compile 
+run 3
+compile
+run 3
+compile
+run 3
+exit
+compile
+run 3
+compile
+run 3
+run 4
+run 3
+compile
+run 3
+compile
+run 3
+run
+run 3
+run
+run 4
+run
+run 4
+run
+run 4
+runtime sbt 4
+runtime run 4
+run time 4
+compile
+run 4 
+clar
+clear
+cls
+run 4
+compile
+run 192.168.0.25
+compile
+run 192.168.0.25
+compile
+run 192.168.0.25
+run 4
+compile
+run 3
+compile
+run 3

@@ -1,0 +1,24 @@
+[0m[[0minfo[0m] [0mRunning Main 4[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/home/prateek/Downloads/ReWork/BitCoinMining-Sim/target/scala-2.11/classes[0m
+[0m[[0mdebug[0m] [0m	/home/prateek/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	/home/prateek/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/prateek/.ivy2/cache/com.typesafe.akka/akka-remote_2.11/jars/akka-remote_2.11-2.3.7.jar[0m
+[0m[[0mdebug[0m] [0m	/home/prateek/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.7.jar[0m
+[0m[[0mdebug[0m] [0m	/home/prateek/.ivy2/cache/io.netty/netty/bundles/netty-3.8.0.Final.jar[0m
+[0m[[0mdebug[0m] [0m	/home/prateek/.ivy2/cache/com.google.protobuf/protobuf-java/bundles/protobuf-java-2.5.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/prateek/.ivy2/cache/org.uncommons.maths/uncommons-maths/jars/uncommons-maths-1.2.2a.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mInterrupting thread ForkJoinPool-3-worker-7[0m
+[0m[[0mdebug[0m] [0m	Interrupted ForkJoinPool-3-worker-7[0m
+[0m[[0mdebug[0m] [0mInterrupting thread Thread-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted Thread-1[0m
+[0m[[0mdebug[0m] [0mInterrupting thread Bitcoin-server-9[0m
+[0m[[0mdebug[0m] [0m	Interrupted Bitcoin-server-9[0m
+[0m[[0mdebug[0m] [0mInterrupting thread ForkJoinPool-3-worker-5[0m
+[0m[[0mdebug[0m] [0m	Interrupted ForkJoinPool-3-worker-5[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
